@@ -368,7 +368,7 @@ input[type=submit] {
   .work {
     position: relative;
     float: left;
-    width: 95%;
+    width: 100%;
     margin: 5% 0 10% 2%;
     overflow: auto;
   }
@@ -459,9 +459,9 @@ input[type=submit] {
   }
 
   .main-section {
-    width: 94%;
+    width: 95%;
     float: left;
-    margin: auto;
+    margin-left: 2.5%;
   }
 
   .auth-image {
@@ -473,24 +473,24 @@ input[type=submit] {
   }
 
   .sidebar {
-    width: 94%;
+    width: 95%;
     float: right;
-    margin: auto;
+    margin-right: 2.5%
   }
 
-  .work {
+  /*.work {
     position: relative;
-    /*float: left;*/
+    float: left;
     width: 95%;
-    margin: 5% 0 10% 2%;
+    margin: 5% 0 10% 5%;
     overflow: auto;
-  }
+  }*/
 
   .work {
     position: relative;
     float: left;
-    width: 45%;
-    margin: 5% 0 5%;
+    width: 95%;
+    margin: 5% 2% 5%;
     overflow: auto;
   }
 
